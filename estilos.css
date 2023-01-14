@@ -1,0 +1,80 @@
+.imagen {
+  height: 100px;
+}
+
+.productos {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  border: 1px solid #111010;
+  background: rgb(186, 182, 182);
+  border-radius: 6px;
+  transition: all 400ms ease;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+  cursor: default;
+  gap: 2rem;
+}
+
+.contenedor-busqueda {
+  text-align: center;
+}
+
+.busqueda {
+  width: 50%;
+  height: 40px;
+  padding: 12px 20px;
+  margin: 8px auto;
+  box-sizing: border-box;
+  font-size: 18px;
+  display: block;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+  transform: translateY(-3%);
+}
+
+.btn:hover {
+  background: #08e171;
+  color: #fff;
+}
+
+a {
+  cursor: pointer;
+  list-style: none;
+  color: white;
+}
+.alerta {
+  font-weight: 700;
+}
+body {
+  background-color: #9b9391;
+  overflow-x: hidden;
+}
+.modal-contenedor {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.img-carrito {
+  width: 200px;
+  padding: 20px;
+}
+.modal-content {
+  background-color: #eadedc;
+}
+.parrafo {
+  font-weight: 900;
+  font-style: italic;
+}
+#precioTotal {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+.boton {
+  opacity: 0;
+}

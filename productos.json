@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "PC Intel de Entrada",
+    "cantidad": 1,
+    "desc": "Core i3 10100F/ 16gb: 2x8GB DDR4/ GTX1650/ Gigabyte H510M H",
+    "precio": 550,
+    "img": "img/PC-i3.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "PC Intel Gama Media",
+    "cantidad": 1,
+    "desc": "Core i5 11400F/ 16gb: 2x8GB DDR4/ GTX 3050 8GB/ SSD Solido 1TB",
+    "precio": 850,
+    "img": "img/pc-i5.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "PC Intel Gama Alta",
+    "cantidad": 1,
+    "desc": "Core i7 11700F/ 16gb: 2x8GB DDR4/ GTX 3060 12GB/ SSD Solido 500GB",
+    "precio": 1200,
+    "img": "img/pc-i7.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "PC Ryzen Entrada",
+    "cantidad": 1,
+    "desc": "Ryzen 3 4350G/ 8gb: 1x8GB DDR4/ SSD Solido 480GB",
+    "precio": 400,
+    "img": "img/pc-ryzen3.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "PC Ryzen Gama Media",
+    "cantidad": 1,
+    "desc": "Ryzen 5 5600G/ 16gb: 2x8GB DDR4/ SSD Solido 250GB",
+    "precio": 700,
+    "img": "img/pc-ryzen5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "PC Ryzen Gama Alta",
+    "cantidad": 1,
+    "desc": "Ryzen 7 5700G/ 16gb: 2x8GB DDR4/ X570M MotherBoard/ SSD Solido 512GB",
+    "precio": 1000,
+    "img": "img/pc-ryzen7.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Tarjeta de Video 4090",
+    "cantidad": 1,
+    "desc": "Tarjeta de Video MSI Tarjeta de Video 4090 24gb",
+    "precio": 1659,
+    "img": "img/rtx-4090.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Tarjeta de Video 4080",
+    "cantidad": 1,
+    "desc": "Tarjeta de Video MSI Tarjeta de Video 4080 16GB",
+    "precio": 1369,
+    "img": "img/rtx-4080.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Tarjeta de Video RTX 3070",
+    "cantidad": 1,
+    "desc": "Tarjeta de Video Gigabyte RTX 3070 8GB",
+    "precio": 799,
+    "img": "img/rtx-3070.jpg"
+  }
+]
